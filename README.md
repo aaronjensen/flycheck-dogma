@@ -1,3 +1,6 @@
+# DEPRECATED
+flycheck-dogma is now built in to flycheck, please use that one, thanks!
+
 # flycheck-dogma [![MELPA](https://melpa.org/packages/flycheck-dogma-badge.svg)](https://melpa.org/#/flycheck-dogma)
 
 [flycheck][] checker for [dogma][].
